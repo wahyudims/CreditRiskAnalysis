@@ -103,6 +103,7 @@ Feature engineering is used to create new features such as new columns and dummy
 5. The best model in this case is KNN which gives recall around 86%. This model can be used in an application in which approval team could insert the personal information and credit information of clients who applied, then this model could predict would this client be default or not and from there it can be consideration to approve the client or not.
 
 
+For more detail, Feel free to see my code
 
 
 
